@@ -1,7 +1,7 @@
 package;
 
 #if cpp
-import llua.Lua;
+import lua.Lua;
 #end
 import Controls.Control;
 import flixel.FlxG;
